@@ -1,0 +1,325 @@
+#accountwelcomeDiv {
+    background: linear-gradient(135deg, #0ff0b3 0%, #036ed9 100%);
+    display: none;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+  
+    color: #ffffff;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 5px;
+    padding: 2px;
+    text-align: center;
+  
+    border-radius: 5px;
+    padding:1% !important;
+    
+    box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+  }
+  #accountfirst {
+      font-size: 12 !important;
+     
+    padding:1% !important;
+      text-align: left;
+    line-height: 0.8em;
+      padding: auto;
+      margin: auto;
+    border-radius: 5px;
+    background:linear-gradient(135deg, #42e695 0%,#3bb2b8 100%);
+  
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+  
+    
+    width: auto;
+    height: auto;
+    
+  
+    position: relative;
+  }
+  #text{
+      font-size: smaller;
+      text-align:start;
+  }
+  
+
+  #accountwelcomeDiv1 {
+    background: linear-gradient(135deg, #0ff0b3 0%, #036ed9 100%);
+    display: none;
+    font-family: "Helvetica", sans-serif;
+    font-size: 16px;
+    padding:1% !important;
+    color: #ffffff;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 5px;
+    padding: 2px;
+    text-align: center;
+  
+    border-radius: 5px;
+    
+    box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+  }
+  #accountsecond {
+     
+    line-height: 0.8em;
+    padding:1% !important;
+      margin: auto;
+    border-radius: 5px;
+    background:linear-gradient(135deg, #42e695 0%,#3bb2b8 100%);
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 9.5px );
+-webkit-backdrop-filter: blur( 9.5px );
+
+border: 1px solid rgba(4, 80, 194, 0.18);
+  
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+  
+    
+    width: auto;
+    height: auto;
+    
+  
+    position: relative;
+  }
+
+  #accountwelcomeDiv2 {
+    background: linear-gradient(135deg, #0ff0b3 0%, #036ed9 100%);
+    display: none;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+    padding:1% !important;
+    color: #ffffff;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 5px;
+    padding: 2px;
+    text-align: center;
+  
+    border-radius: 5px;
+    
+    box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+  }
+  #accountthird {
+     
+    line-height: 0.8em;
+    padding:1% !important;
+    width: auto !important;
+      margin: auto;
+    border-radius: 5px;
+    background:linear-gradient(135deg, #42e695 0%,#3bb2b8 100%);
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 9.5px );
+-webkit-backdrop-filter: blur( 9.5px );
+
+border: 1px solid rgba(4, 80, 194, 0.18);
+  
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+  
+    
+    width: auto;
+    height: auto;
+    
+  
+    position: relative;
+  }
+  
+  #accountwelcomeDiv3 {
+    background: linear-gradient(135deg, #0ff0b3 0%, #036ed9 100%);
+    display: none;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+    padding:1% !important;
+    color: #ffffff;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 5px;
+    padding: 2px;
+    text-align: center;
+  
+    border-radius: 5px;
+    
+    box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+  }
+  #accountforth{
+     
+    line-height: 0.8em;
+    padding:1% !important;
+    width: auto !important;
+      margin: auto;
+    border-radius: 5px;
+    background:linear-gradient(135deg, #42e695 0%,#3bb2b8 100%);
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 9.5px );
+-webkit-backdrop-filter: blur( 9.5px );
+
+border: 1px solid rgba(4, 80, 194, 0.18);
+  
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+  
+    
+    width: auto;
+    height: auto;
+    
+  
+    position: relative;
+  }
+
+  #accountwelcomeDiv4 {
+    background: linear-gradient(135deg, #0ff0b3 0%, #036ed9 100%);
+    display: none;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+    padding:1% !important;
+    color: #ffffff;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 5px;
+    padding: 2px;
+    text-align: center;
+  
+    border-radius: 5px;
+    
+    box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+  }
+  #accountfifth{
+     
+    line-height: 0.8em;
+    padding:1% !important;
+    width: auto !important;
+      margin: auto;
+    border-radius: 5px;
+    background:linear-gradient(135deg, #42e695 0%,#3bb2b8 100%);
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 9.5px );
+-webkit-backdrop-filter: blur( 9.5px );
+
+border: 1px solid rgba(4, 80, 194, 0.18);
+  
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+  
+    
+    width: auto;
+    height: auto;
+    
+  
+    position: relative;
+  }
+
+  #accountwelcomeDiv5 {
+    background: linear-gradient(135deg, #0ff0b3 0%, #036ed9 100%);
+    display: none;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+    padding:1% !important;
+    color: #ffffff;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 5px;
+    padding: 2px;
+    text-align: center;
+  
+    border-radius: 5px;
+    
+    box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+  }
+  #accountsix{
+     
+    line-height: 0.8em;
+    padding:1% !important;
+    width: auto !important;
+      margin: auto;
+    border-radius: 5px;
+    background:linear-gradient(135deg, #42e695 0%,#3bb2b8 100%);
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 9.5px );
+-webkit-backdrop-filter: blur( 9.5px );
+
+border: 1px solid rgba(4, 80, 194, 0.18);
+  
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+  
+    
+    width: auto;
+    height: auto;
+    
+  
+    position: relative;
+  }
+
+  #accountwelcomeDiv6 {
+    background: linear-gradient(135deg, #0ff0b3 0%, #036ed9 100%);
+    display: none;
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+    padding:1% !important;
+    color: #ffffff;
+    width: auto;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    margin-top: 5px;
+    padding: 2px;
+    text-align: center;
+  
+    border-radius: 5px;
+    
+    box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -moz-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 2px 18px rgba(0, 0, 0, 0.1);
+  }
+  #accountseven{
+     
+    line-height: 0.8em;
+    padding:1% !important;
+    width: auto !important;
+      margin: auto;
+    border-radius: 5px;
+    background:linear-gradient(135deg, #42e695 0%,#3bb2b8 100%);
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 9.5px );
+-webkit-backdrop-filter: blur( 9.5px );
+
+border: 1px solid rgba(4, 80, 194, 0.18);
+  
+    font-family: "Helvetica", sans-serif;
+    font-size: 18px;
+  
+    
+    width: auto;
+    height: auto;
+    
+  
+    position: relative;
+  }
+
+
